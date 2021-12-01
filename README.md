@@ -29,6 +29,8 @@ a=b
 b=c
 print("Swapped values are:",a,b)
 ```
+## OUTPUT
+![output 1](PYS1.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
